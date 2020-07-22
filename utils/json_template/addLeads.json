@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "First_Name": "#f",
+            "Last_Name": "#l",
+            "Email": "#e",
+            "Phone": "#p",
+            "Annual_Revenue": "#i"
+        }
+    ],
+    "trigger": [
+        "approval",
+        "workflow",
+        "blueprint"
+    ]
+}
